@@ -18,4 +18,4 @@ Acoso, insultos, discriminación, amenazas, spam, suplantación de identidad ni 
 
 Si ocurre un problema, contacta de forma privada a los administradores de la comunidad por los canales de moderación de Discord o WhatsApp. Evita publicar denuncias o datos sensibles en Issues públicos. Los administradores revisarán el contexto y podrán moderar la conversación o limitar el acceso a los espacios de la comunidad según la gravedad de la situación.
 
-Estas pautas se aplican a repositorios, Issues, Pull Requests y conversaciones vinculadas a los proyectos de COMUNIDAD TAJY.
+Estas pautas se aplican a repositorios, Issues, Pull Requests y conversaciones vinculadas a los proyectos de nuestra comunidad informatica.
