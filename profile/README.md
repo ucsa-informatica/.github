@@ -1,23 +1,25 @@
-# COMUNIDAD TAJY, MBA'EICHAPA?
+# ¡Mba'éichapa! Bienvenido a COMUNIDAD TAJY 🌳
 
-Comunidad de estudiantes de informática de la UCSA para aprender, colaborar y construir proyectos juntos.
+Somos una comunidad creada por estudiantes de informática de la UCSA para aprender juntos, compartir conocimientos y convertir ideas en proyectos. Queremos que más estudiantes encuentren un lugar donde preguntar, colaborar y ganar experiencia sin temor a ser juzgados.
 
 ## Qué hacemos
 
-- Compartimos conocimientos de programación, redes, ciberseguridad y otras áreas de informática.
-- Organizamos proyectos comunitarios y los desarrollamos.
-- Nos ayudamos con dudas, recursos y experiencias entre estudiantes.
+- Conversamos y compartimos recursos sobre programación, redes, ciberseguridad y otras áreas de informática.
+- Impulsamos proyectos hechos en equipo y organizamos su desarrollo en GitHub.
+- Nos ayudamos con dudas, experiencias y aprendizajes de la carrera.
 
-Las ideas y la conversación diaria ocurren en Whatsapp y Discord.
+La conversación diaria y las ideas comienzan en WhatsApp y Discord. GitHub es el espacio donde los proyectos aprobados por la comunidad se documentan y desarrollan.
 
-## Proyectos
+## Proyectos de la comunidad
 
-Cada repositorio de trabajo pertenece a un proyecto de la comunidad. Según el caso, un proyecto puede ser público para mostrar el trabajo o privado con acceso asignado a estudiantes autorizados.
+Cada repositorio de trabajo corresponde a un proyecto comunitario con su propio equipo y responsables. Los proyectos personales pueden publicarse desde las cuentas de sus autores.
 
-Consulta la [plantilla de proyecto](https://github.com/ucsa-informatica/plantilla-proyecto) para conocer la estructura y la forma de colaborar.
+Algunos proyectos son públicos para compartir lo que construimos; otros son privados y solo pueden verlos las personas con acceso asignado. **Si nos visitás desde fuera de la organización, en la pestaña de repositorios verás únicamente los proyectos públicos.**
 
-## Cómo participar?
+## Cómo participar
 
-Unite a los canales de la comunidad y presenta tu interés en un proyecto. Los responsables coordinan tareas y revisiones; los administradores globales gestionan repositorios y permisos. Puedes empezar leyendo proyectos públicos, comentando en Issues o contribuyendo con código cuando se te asigne acceso.
+Si sos estudiante y te interesa una idea, acercate a nuestros espacios de WhatsApp o Discord, conversá con el equipo y elegí una tarea para empezar. Los responsables coordinan el trabajo; los administradores de la organización asignan los permisos necesarios para cada repositorio.
 
-> COMUNIDAD TAJY es una iniciativa ESTUDIANTIL, significa, que todo esto es organizado y representado por estudiantes de la UCSA.
+Si estás conociendo TAJY desde fuera, podés explorar nuestros repositorios públicos y seguir la organización para ver los proyectos que compartamos. Leé nuestra [guía de participación](https://github.com/ucsa-informatica/.github/blob/main/CONTRIBUTING.md) y el [código de convivencia](https://github.com/ucsa-informatica/.github/blob/main/CODE_OF_CONDUCT.md) para conocer cómo trabajamos.
+
+> COMUNIDAD TAJY es una iniciativa organizada por estudiantes. No es una cuenta oficial ni representa institucionalmente a la UCSA.
