@@ -1,20 +1,17 @@
-# ¡Mba'éichapa! Bienvenido a COMUNIDAD TAJY 🌳
+# ¡Mba'éichapa! Bienvenido a COMUNIDAD TAJY
 
-Somos una comunidad creada por estudiantes de informática de la UCSA para aprender juntos, compartir conocimientos y convertir ideas en proyectos. Queremos que más estudiantes encuentren un lugar donde preguntar, colaborar y ganar experiencia sin temor a ser juzgados.
+Somos una comunidad creada por estudiantes de informática de la UCSA para aprender juntos, compartir conocimientos y convertir ideas en proyectos. Queremos que más estudiantes encuentren un lugar donde preguntar, colaborar y ganar experiencia.
 
 ## Qué hacemos
 
 - Conversamos y compartimos recursos sobre programación, redes, ciberseguridad y otras áreas de informática.
-- Impulsamos proyectos hechos en equipo y organizamos su desarrollo en GitHub.
+- Impulsamos proyectos hechos en equipo y organizamos su desarrollo aqui en GitHub.
 - Nos ayudamos con dudas, experiencias y aprendizajes de la carrera.
-
-La conversación diaria y las ideas comienzan en WhatsApp y Discord. GitHub es el espacio donde los proyectos aprobados por la comunidad se documentan y desarrollan.
 
 ## Proyectos de la comunidad
 
-Cada repositorio de trabajo corresponde a un proyecto comunitario con su propio equipo y responsables. Los proyectos personales pueden publicarse desde las cuentas de sus autores.
+Cada repositorio de trabajo corresponde a un proyecto comunitario con su propio equipo y responsables con su respectivo credito.
 
-Algunos proyectos son públicos para compartir lo que construimos; otros son privados y solo pueden verlos las personas con acceso asignado. **Si nos visitás desde fuera de la organización, en la pestaña de repositorios verás únicamente los proyectos públicos.**
 
 ## Cómo participar
 
